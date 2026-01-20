@@ -70,6 +70,10 @@ The script will:
 
 ⚠️ Disclaimer & Legal Warning
 
-Usage of this tool for attacking targets without prior mutual consent is illegal. 1. Educational Purposes Only: This tool was created by ParceSnarce for learning purposes and security auditing. 2. Authorized Testing: Do not scan any network or system that you do not own or have explicit, written permission to test. 3. No Support for Illegal Activity: I, ParceSnarce, do not support, encourage, or promote "Black Hat" hacking or any form of cybercrime. 4. User Responsibility: The user is 100% responsible for their actions. I am not liable for any misuse of this script or damage caused by its execution.
+Usage of this tool for attacking targets without prior mutual consent is illegal.
+1. Educational Purposes Only: This tool was created by ParceSnarce for learning purposes and security auditing.
+2. Authorized Testing: Do not scan any network or system that you do not own or have explicit, written permission to test.
+3. No Support for Illegal Activity: I, ParceSnarce, do not support, encourage, or promote "Black Hat" hacking or any form of cybercrime.
+4. User Responsibility: The user is 100% responsible for their actions. I am not liable for any misuse of this script or damage caused by its execution.
 
 Use your skills for good. Stay Ethical. 🛡️
